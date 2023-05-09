@@ -1,11 +1,11 @@
 # Clonacion de la interfaz  de Google  creado con HTML5 Y CSS3 en el bootcamp  de Tecnolochicas PRO.💗
 ## INDIce
-* [1. Intro](#)💗https://github.com/Wendy-Medina/cloninterfazdegoogle/blob/main/README.md#1-intro
+* [1. Intro](#)💗
 * [2. Qué construí](#)💗
 * [3. Objetivo del proyecto](#)💗
 
 ****
-## 1. Intro✨
+## 1. Intro✨ 
 HTML5 trabaja de la mano con CSS3 para crear paginas web que usamos todos los dias en el navegador. Incluso este sitio donde estas viendo este contenido esta construido con HTML y CSS.
 En este proyecto, con los conocimientos de HTML Y CSS realice la clonacion de la interfaz de Google.
 
